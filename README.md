@@ -18,5 +18,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryrony&layout=compact&theme=blueberry)
 
-[INSTAGRAM]: "https://www.instagram.com/laluroni_24"
+[INSTAGRAM]: https://www.instagram.com/laluroni_24
 [EMAIL]: mailto:aryrony21@gmail.com
