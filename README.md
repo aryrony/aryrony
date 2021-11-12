@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @aryrony
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Lalu Roni Arianto 👋
 
-<!---
-aryrony/aryrony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img alt="Gmail" src="https://img.shields.io/badge/aryrony21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
+
+
+
+## I'm a Student !!
+
+- 🌱 I’m learned Multimedia Basic 😊
+
+### Connect with me:
+
+[<img alt="Instagram" src="https://img.shields.io/badge/Lalu Roni Arianto %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][INSTAGRAM]
+
+
+
+![LaluRoni GitHub stats](https://github-readme-stats.vercel.app/api?username=aryrony&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryrony&layout=compact&theme=blueberry)
+
+[INSTAGRAM]: "https://www.instagram.com/laluroni_24"
+[EMAIL]: mailto:aryrony21@gmail.com
